@@ -1,0 +1,11 @@
+Banco de dados: controleFinanceiro
+
+	tabelas:
+		RendaLiquida:
+		RendaVariavel:
+		DespesasFixas:
+		DespesasVariaveis:
+		
+		
+
+
